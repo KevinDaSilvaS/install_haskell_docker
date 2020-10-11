@@ -32,3 +32,24 @@ Simple instructions on how to usand setup a development environment for haskell 
         <p>EN: Go to the cube extension icon, search for docker and install the extension showed in the image</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/docker_extension.jpg" alt="">
     </li>
+    
+   <li>
+        <h4>Install WSL extension</h4>
+        <p>PT: Ainda no icone de cubinhos no lado esquerdo da tela e digite WSL e instale a extensão mostrada na imagem</p>
+        <p>EN: Still on the cube extension icon, search for WSL and install the extension showed in the image</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/wsl_extension.jpg" alt="">
+    </li>
+    
+   <li>
+        <h4>Install Remote Containers extension</h4>
+        <p>PT: Ainda no icone de cubinhos no lado esquerdo da tela e digite Remote Containers e instale a extensão mostrada na imagem</p>
+        <p>EN: Still on the cube extension icon, search for Remote Containers and install the extension showed in the image</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/containers_extension.jpg" alt="">
+    </li>
+    
+   <li>
+        <h4>Install Haskelly extension</h4>
+        <p>PT: Ainda no icone de cubinhos no lado esquerdo da tela e digite Haskelly e instale a extensão mostrada na imagem</p>
+        <p>EN: Still on the cube extension icon, search for Haskelly and install the extension showed in the image</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/haskelly_extension.jpg" alt="">
+    </li>
