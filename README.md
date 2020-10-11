@@ -53,3 +53,11 @@ Simple instructions on how to usand setup a development environment for haskell 
         <p>EN: Still on the cube extension icon, search for Haskelly and install the extension showed in the image</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/haskelly_extension.jpg" alt="">
     </li>
+    
+   <li>
+        <h4>Open the powershell or vscode terminal</h4>
+        <p>PT: No powershell ou no terminal do vscode digite o comando ```docker run -ti haskell```. Se no final aparecer a versão do ghci a imagem foi iniciada corretamente</p>
+        <p>EN: In powershell or vscode terminal type the command ```docker run -ti haskell```. If in the end the ghci showed its version the image was started correctly</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/command.jpg" alt="">
+        <a href="https://hub.docker.com/_/haskell/">haskell mage reference</a>
+    </li>
