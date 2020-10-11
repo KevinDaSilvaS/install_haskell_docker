@@ -17,3 +17,11 @@ Simple instructions on how to usand setup a development environment for haskell 
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/wsl2.png" alt="">
         <a href="https://docs.microsoft.com/pt-br/windows/wsl/install-win10#step-2---update-to-wsl-2">install-wsl-2 </a>
     </li>
+    
+   <li>
+        <h4>Install VsCode</h4>
+        <p>PT: Faça o download do vscode</p>
+        <p>EN: If docker didnt required the download of WSL2 during the installation you should download in the link below</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/vscode.png" alt="">
+        <a href="https://code.visualstudio.com/">VsCode </a>
+    </li>
