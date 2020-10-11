@@ -55,9 +55,8 @@ Simple instructions on how to usand setup a development environment for haskell 
     </li>
     
    <li>
-        <h4>Open the powershell or vscode terminal</h4>
-        <p>PT: No powershell ou no terminal do vscode digite o comando ```docker run -ti haskell```. Se no final aparecer a versão do ghci a imagem foi iniciada corretamente</p>
-        <p>EN: In powershell or vscode terminal type the command ```docker run -ti haskell```. If in the end the ghci showed its version the image was started correctly</p>
-        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/command.jpg" alt="">
-        <a href="https://hub.docker.com/_/haskell/">haskell mage reference</a>
+        <h4>WSL workspaces</h4>
+        <p>PT: Clicando no icone em destaque deverá aparecer a lista de todos os workspaces do wsl. Vá no topo clicque no dropdown e selecione containers</p>
+        <p>EN: After clicked in the circled icon vscode should show list of all the wsl workspaces. Go on the top and click in the dropdown and select the containers option</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/containers_list.jpg" alt="">
     </li>
