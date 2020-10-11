@@ -21,7 +21,14 @@ Simple instructions on how to usand setup a development environment for haskell 
    <li>
         <h4>Install VsCode</h4>
         <p>PT: Faça o download do vscode</p>
-        <p>EN: If docker didnt required the download of WSL2 during the installation you should download in the link below</p>
+        <p>EN: Download vscode</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/vscode.png" alt="">
         <a href="https://code.visualstudio.com/">VsCode </a>
+    </li>
+    
+   <li>
+        <h4>Install Docker extension</h4>
+        <p>PT: Vá no icone de cubinhos no lado esquerdo da tela e digite docker e instale a extensão mostrada na imagem</p>
+        <p>EN: Go to the cube extension icon, search for docker and install the extension showed in the image</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/docker_extension.jpg" alt="">
     </li>
