@@ -82,8 +82,8 @@ Simple instructions on how to usand setup a development environment for haskell 
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/list_stop.jpg" alt="">
     </li>
  <li>
-        <h4>Stopping Containers powershell</h4>
-        <p>PT: Caso queira parar o container depois de usa-lo basta no powershell ou terminal basta apenas digitar o seguinte comando Docker stop + processId ou Docker stop + container name</p>
-        <p>EN: If you want to stop the container after you used it, in powershell and terminal you just have do type the following commands Docker stop + processId or Docker stop + container name</p>
-        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/list_stop.jpg" alt="">
+        <h4>Stopping Containers vscode</h4>
+        <p>PT: Caso queira parar o container via interface visual basta apenas clicar no icone do docker ir na aba containers clicar com o botão direito em cima do container do haskell e selecionar a opção stop</p>
+        <p>EN: If you want to stop the container using the vscode UI you just have to click on the docker icon, select the haskell container in the containers and with the mouse right button click in stop</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/parando_via_vscode.jpg" alt="">
     </li>
