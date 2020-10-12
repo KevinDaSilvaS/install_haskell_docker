@@ -67,3 +67,10 @@ Simple instructions on how to usand setup a development environment for haskell 
         <p>EN: In containers list click with mouse right button in the haskell container and after that click in attach in new window or em attach to container</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/open_container.jpg" alt="">
     </li>
+    
+   <li>
+        <h4>Project open</h4>
+        <p>PT: Quando conectado ao container clique em  open folder deixe o default root e clique em ok. Com o projeto aberto os seguintes arquivos em azul devem estar visiveis, após isso criei um arquivo hi.hs e compilei(destaques em laranja e vermelho escuro) depois cliquei na opção selecionada em verde e após aberta a aba cliquei no destaque em rosa para acessar o terminal e após isso em vermelho claro rodei o arquivo</p>
+        <p>EN: When connected to container click in open folder select /root/ and click ok. With the project opened the following files and folders in blue should be visible, after that i created a hi.hs file and compiled it(orange and dark red colors), after it i clicked in the green square to open the tab and clicked in the pink option in the terminal i just have to run the file and see the output in red</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/projetoaberto.jpg" alt="">
+    </li>
