@@ -60,3 +60,10 @@ Simple instructions on how to usand setup a development environment for haskell 
         <p>EN: After clicked in the circled icon vscode should show list of all the wsl workspaces. Go on the top and click in the dropdown and select the containers option</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/containers_list.jpg" alt="">
     </li>
+    
+   <li>
+        <h4>In containers list</h4>
+        <p>PT: Na lista de containeres clique com o botão direito do mouse no container do haskell e clique em attach in new window ou em attach to container</p>
+        <p>EN: In containers list click with mouse right button in the haskell container and after that click in attach in new window or em attach to container</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/open_container.jpg" alt="">
+    </li>
