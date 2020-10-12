@@ -87,3 +87,10 @@ Simple instructions on how to usand setup a development environment for haskell 
         <p>EN: If you want to stop the container using the vscode UI you just have to click on the docker icon, select the haskell container in the containers and with the mouse right button click in stop</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/parando_via_vscode.jpg" alt="">
     </li>
+</ol>
+
+<h3>Useful links:</h3>
+<a href="https://www.youtube.com/watch?v=yb2udL9GG2U">Basics of docker PT </a>
+<a href="https://learndocker.online/">Docker course EN</a>
+<a href="https://www.youtube.com/watch?v=a49gYcBwITc">Docker WSL2 PT</a>
+<a href="https://www.youtube.com/watch?v=hM0-z6WL8XU&list=PLC3y8-rFHvwhleivq1QohBZN4d8IdzG3c">VSCODE basics playlist EN</a>
