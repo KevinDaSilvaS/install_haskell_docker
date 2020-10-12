@@ -90,7 +90,9 @@ Simple instructions on how to usand setup a development environment for haskell 
 </ol>
 
 <h3>Useful links:</h3>
-<a href="https://www.youtube.com/watch?v=yb2udL9GG2U">Basics of docker PT </a>
-<a href="https://learndocker.online/">Docker course EN</a>
-<a href="https://www.youtube.com/watch?v=a49gYcBwITc">Docker WSL2 PT</a>
-<a href="https://www.youtube.com/watch?v=hM0-z6WL8XU&list=PLC3y8-rFHvwhleivq1QohBZN4d8IdzG3c">VSCODE basics playlist EN</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yb2udL9GG2U">Basics of docker PT </a></li>
+<li><a href="https://learndocker.online/">Docker course EN</a></li>
+<li><a href="https://www.youtube.com/watch?v=a49gYcBwITc">Docker WSL2 PT</a></li>
+<li><a href="https://www.youtube.com/watch?v=hM0-z6WL8XU&list=PLC3y8-rFHvwhleivq1QohBZN4d8IdzG3c">VSCODE basics playlist EN</a></li>
+    </ul>
