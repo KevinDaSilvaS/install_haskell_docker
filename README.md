@@ -74,3 +74,16 @@ Simple instructions on how to usand setup a development environment for haskell 
         <p>EN: When connected to container click in open folder select /root/ and click ok. With the project opened the following files and folders in blue should be visible, after that i created a hi.hs file and compiled it(orange and dark red colors), after it i clicked in the green square to open the tab and clicked in the pink option in the terminal i just have to run the file and see the output in red</p>
         <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/projetoaberto.jpg" alt="">
     </li>
+    
+<li>
+        <h4>Stopping Containers powershell</h4>
+        <p>PT: Caso queira parar o container depois de usa-lo basta no powershell ou terminal basta apenas digitar o seguinte comando Docker stop + processId ou Docker stop + container name</p>
+        <p>EN: If you want to stop the container after you used it, in powershell and terminal you just have do type the following commands Docker stop + processId or Docker stop + container name</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/list_stop.jpg" alt="">
+    </li>
+ <li>
+        <h4>Stopping Containers powershell</h4>
+        <p>PT: Caso queira parar o container depois de usa-lo basta no powershell ou terminal basta apenas digitar o seguinte comando Docker stop + processId ou Docker stop + container name</p>
+        <p>EN: If you want to stop the container after you used it, in powershell and terminal you just have do type the following commands Docker stop + processId or Docker stop + container name</p>
+        <img src="https://github.com/KevinDaSilvaS/install_haskell_docker/blob/master/images/list_stop.jpg" alt="">
+    </li>
